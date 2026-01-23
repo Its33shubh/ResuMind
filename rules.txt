@@ -1,0 +1,19 @@
+🎨 ResuMind – Final Brand Colors (Remembered)
+
+These colors will be treated as default branding going forward:
+
+#ACC8A2 → Soft Sage (secondary / accents)
+
+#1A2517 → Deep Forest Green (primary / text / headers)
+
+#40826D → Teal Green (buttons / highlights / CTAs)
+
+#FFF5EE → Seashell White (backgrounds)
+
+style 
+
+tailwind,font family : outfit
+
+pages 
+
+Dashboard , Home , Layout , Login , preview 
