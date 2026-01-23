@@ -17,3 +17,99 @@ tailwind,font family : outfit
 pages 
 
 Dashboard , Home , Layout , Login , preview 
+
+
+ */fronted way
+
+Landing Page
+   ↓
+Login / Signup
+   ↓
+Dashboard
+   ↓
+Create Resume
+   ↓
+Step-by-Step Form
+   ↓
+Live Resume Preview
+   ↓
+Download PDF
+
+
+/* Frontend Pages You Should Create (React)
+🏠 Public Pages
+
+Landing Page
+
+Pricing / Features (optional)
+
+Login
+
+Register
+
+🔐 Private Pages
+
+Dashboard (list of resumes)
+
+Create Resume
+
+Edit Resume
+
+Preview Resume
+
+Download Page
+
+
+*/3️⃣ Resume Builder UI (CORE PART)
+
+Create multi-step form:
+
+Step 1: Personal Info
+
+Name
+
+Email
+
+Phone
+
+Location
+
+LinkedIn / GitHub
+
+Step 2: Summary
+
+Textarea
+
+Button → “Generate with AI”
+
+Step 3: Skills
+
+Tags input
+
+AI Suggest Skills
+
+Step 4: Experience
+
+Company
+
+Role
+
+Duration
+
+Description (AI help)
+
+Step 5: Education
+
+Degree
+
+College
+
+Year
+
+Step 6: Projects
+
+Title
+
+Tech Stack
+
+Description
