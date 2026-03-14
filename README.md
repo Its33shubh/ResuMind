@@ -1,6 +1,6 @@
 # ResuMind – AI Career Intelligence Platform (Backend)
 
-ResuMind is an AI-powered career intelligence platform designed to help users improve their resumes, prepare for interviews, and discover relevant job opportunities.
+ResuMind is an AI-powered career intelligence platform designed to help users improve their resumes, and discover relevant job opportunities.
 
 The platform analyzes user resumes, calculates ATS scores, detects skill gaps, and provides AI-powered career insights.
 
@@ -31,7 +31,6 @@ This project is currently **under development**.
 * AI-based resume analysis
 * ATS score generation
 * Skill gap detection
-* Interview question generation
 * Job recommendation system
 
 ---
@@ -94,7 +93,6 @@ The goal of ResuMind is to build a **complete AI-powered career assistant** that
 
 * Improve their resumes
 * Identify missing skills
-* Prepare for interviews
 * Discover suitable job opportunities
 
 ---
